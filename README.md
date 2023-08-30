@@ -10,4 +10,4 @@
 |`plot_metrics_bar`|绘制两个模型指标的柱状图|
 |`plot_roc_curve`|绘制两个模型的ROC曲线|
 
-具体函数用法见[`visualize.ipynb`](visualize.ipynb)内定义。
+具体函数用法见[`visual.py`](visual.py)内定义。
